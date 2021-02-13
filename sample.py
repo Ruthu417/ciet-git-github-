@@ -1,2 +1,3 @@
 input_file=input()
-print(input_file)
+for ch input_file:
+    print(ch)
